@@ -129,4 +129,5 @@ extern int ver_quest[10][5];
 
 ## 힌트&정답 (answer.lib)
 힌트와 정답의 값이 들어있는 파일입니다.
+debug, x64 플랫폼입니다.
 
